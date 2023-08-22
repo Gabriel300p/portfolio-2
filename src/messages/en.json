@@ -1,0 +1,27 @@
+{
+  "portfolio": {
+    "menu": "Meus projetos",
+    "projects": {
+      "project1": {
+        "title": "Controle Financeiro",
+        "description": "Iniciado por necessidade de um amigo. Auxilia empreendedores no gerenciamento do seu negócio.",
+        "type": "Projeto pessoal"
+      },
+      "project2": {
+        "title": "Check Mídia",
+        "description": "Projeto da minha agência. Foco inicialmente em auxiliar pequenas e médias empresas com serviços de marketing personalizado.",
+        "type": "Projeto pessoal"
+      },
+      "project3": {
+        "title": "Pig Pins Metais",
+        "description": "Landing page para capturar leads para enviar um formulário de contato e ir para o WhatsApp, além de mostrar o processo e alguns produtos.",
+        "type": "Freelancer"
+      },
+      "project4": {
+        "title": "BeutySalon",
+        "description": "Landing page para capturar leads para enviar um formulário de contato e ir para o WhatsApp, além de mostrar o processo e alguns produtos.",
+        "type": "Estudo - Rocketseat"
+      }
+    }
+  }
+}

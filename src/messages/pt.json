@@ -1,0 +1,42 @@
+{
+  "portfolio": {
+    "menu": "Meus projetos",
+    "projects": {
+      "project1": {
+        "title": "Controle Financeiro",
+        "description": "Iniciado por necessidade de um amigo. Auxilia empreendedores no gerenciamento do seu negócio.",
+        "type": "Projeto pessoal"
+      },
+      "project2": {
+        "title": "Check Mídia",
+        "description": "Projeto da minha agência. Foco inicialmente em auxiliar pequenas e médias empresas com serviços de marketing personalizado.",
+        "type": "Projeto pessoal"
+      },
+      "project3": {
+        "title": "Pig Pins Metais",
+        "description": "Landing page para capturar leads para enviar um formulário de contato e ir para o WhatsApp, além de mostrar o processo e alguns produtos.",
+        "type": "Freelancer"
+      },
+      "project4": {
+        "title": "BeutySalon",
+        "description": "Projeto para estudar os fundamentos da programação. Feito com a rocketseat em um evento de uma semana.",
+        "type": "Estudo - Rocketseat"
+      },
+      "project5": {
+        "title": "Challenge - GSN",
+        "description": "Challenge da faculdade para todo ano de 2021. Idealizado pensando em ser um aplicativo mobile com IA e reconhecimento de voz.",
+        "type": "Faculdade"
+      },
+      "project6": {
+        "title": "Metaverso",
+        "description": "Estudo para melhorar animações no React e TailwindCSS. Feito junto ao canal do YouTube JavaScript Mastery.",
+        "type": "Estudo - JavaScript Mastery"
+      },
+      "project7": {
+        "title": "Check Mídia - V1",
+        "description": "Versão inicial da minha agência de marketing digital. Foi evoluído para versão vista acima por necessidade de dividir os serviços.",
+        "type": "Projeto Pessoal"
+      }
+    }
+  }
+}
